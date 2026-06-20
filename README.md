@@ -59,7 +59,3 @@ Each pipeline folder contains the Google Colab notebook used to train the teache
 
 All models were trained on a single NVIDIA T4 GPU via Google Colab.
 
-
-## Contact
-
-For questions regarding this dataset or codebase, contact the corresponding author at wastuti@binus.edu.
